@@ -1,0 +1,3 @@
+{   
+    "ignore": ["bot_sessions/*.json", "queue.class.log", "core.class.log", "baileys.class.log", "app.class.log", "app.class.error.log", "app.class.debug.log"]
+}
